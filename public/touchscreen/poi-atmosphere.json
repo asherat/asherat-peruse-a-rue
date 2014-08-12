@@ -1,0 +1,139 @@
+[
+  {
+    "objects": [
+      {
+        "identifier": "UeCMBsfBTX2Zn616cSjz0Q",
+        "lookup": "panoid",
+        "slug": "amazon-rainforest",
+        "title": "Amazon Rainforest",
+        "heading": 117
+      },
+      {
+        "identifier": "bBFBtYA_XV4CcUgDhPMTOA",
+        "lookup": "panoid",
+        "slug": "mayan-ruins",
+        "title": "Mayan Ruins",
+        "heading": 18
+      },
+      {
+        "identifier": "iGjThi1QBZJArzMcX1xxMg",
+        "lookup": "panoid",
+        "slug": "grand-canyon",
+        "title": "Grand Canyon",
+        "heading": 40
+      },
+      {
+        "identifier": "VDBXyJ1gOnKsxaoiRtSfjg",
+        "lookup": "panoid",
+        "slug": "pompeii",
+        "title": "Pompeii",
+        "heading": 335
+      },
+      {
+        "identifier": "g5YvV4GFwFyYSIuMy5E0VQ",
+        "lookup": "panoid",
+        "slug": "mount-fuji",
+        "title": "Mount Fuji",
+        "heading": 290
+      },
+      {
+        "identifier": "XPAF13EigYrQhZe6NsQ7TA",
+        "lookup": "panoid",
+        "slug": "half-moon-island",
+        "title": "Antarctica",
+        "heading": 75
+      }
+    ],
+    "title": "Wonders"
+  },
+  {
+    "objects": [
+      {
+        "identifier": "evECSTueMhYAAAQIt--IIg",
+        "lookup": "panoid",
+        "slug": "galapagos-sea-lions",
+        "title": "Playful Sea Lions",
+        "heading": 345
+      },
+      {
+        "identifier": "CEr0VxhXnSEAAAAGOvCA_w",
+        "lookup": "panoid",
+        "slug": "savage-man-cave",
+        "title": "Adam's Man Cave",
+        "heading": 155
+      },
+      {
+        "identifier": "HWkBcSuwg2ELGfBPd3SN1g",
+        "lookup": "panoid",
+        "slug": "venice",
+        "title": "Venice",
+        "heading": 55
+      },
+      {
+        "identifier": "L007aNFf0a3_Ce8qib6q-w",
+        "lookup": "panoid",
+        "slug": "2operas",
+        "title": "2 Opera Houses",
+        "heading": 10
+      },
+      {
+        "identifier": "xTP9z8_wBaYXusOeUULNnQ",
+        "lookup": "panoid",
+        "slug": "harbor-bridge",
+        "title": "On the Bridge",
+        "heading": 206
+      },
+      {
+        "identifier": "Nkb8FG1cgI8AAAAGOr6GRA",
+        "lookup": "panoid",
+        "slug": "pitt-street",
+        "title": "Pitt Street Mall",
+        "heading": 100
+      },
+      {
+        "identifier": "4C057cMz2aQAAAQXLB3qqg",
+        "lookup": "panoid",
+        "slug": "sydney-vivid",
+        "title": "Sydney Vivid",
+        "heading": 5
+      },
+      {
+        "identifier": "rY5ZW6S3sFUAAAAGOzOdpg",
+        "lookup": "panoid",
+        "slug": "taierzhuang",
+        "title": "Taierzhuang Town",
+        "heading": 95
+      },
+      {
+        "identifier": "CVlYTj1FeR4Mwwyk03IGcA",
+        "lookup": "panoid",
+        "slug": "dubrovnik",
+        "title": "Dubrovnik",
+        "heading": 250
+      },
+      {
+        "identifier": "Mfc7oi_EcMU3ca60BolhLw",
+        "lookup": "panoid",
+        "slug": "versailles",
+        "title": "Hall of Mirrors",
+        "heading": 23
+      },
+      {
+        "identifier": "_kp4fhzjkGe2Z9-HlBbb-Q",
+        "lookup": "panoid",
+        "slug": "library",
+        "title": "Library",
+        "heading": 188
+      },
+      {
+        "identifier": "T_zAb-yjnMwAAAQW-a418Q",
+        "lookup": "panoid",
+        "slug": "eiffel",
+        "title": "Eiffel Tower",
+        "heading": 136
+      }
+    ],
+    "description": "Google Atmosphere Sydney",
+    "title": "Atmosphere"
+  }
+]
