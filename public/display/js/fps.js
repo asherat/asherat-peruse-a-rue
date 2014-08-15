@@ -28,9 +28,9 @@ function(config, L, Stapes, io) {
 	logONOFF();
     });
 
-    this.socket.on('giveLOG', function(){
+    this.socket.on('giveLOG', function(data){
 	console.log('Downloading LOG');
-	downloadLog();
+	downloadLog(data.message);
     });
 
       this.socket.on('connect_failed', function() {
@@ -91,7 +91,7 @@ function draw() {
 
 draw();
 
-function downloadLog() {
+function downloadLog(str) {
     var file = "data:text/plain;charset=utf-8,";
     var logFile = bugout.getLog();
     var encoded = encodeURIComponent(logFile);
@@ -99,7 +99,7 @@ function downloadLog() {
     var a = document.createElement('a');
     a.href = file;
     a.target   = '_blank';
-    a.download = 'myApp_log.txt';
+    a.download = str + '.fps';
     document.body.appendChild(a);
     a.click();
     a.remove();
