@@ -273,11 +273,6 @@ function(config, L, validate, Stapes, GMaps, sv_svc) {
       var forward = this._getForwardLink();
       if(forward) {
         this.setPano(forward.pano);
-	this.setPov({
-		heading: forward.heading,
-		pitch: 0,
-		zoom: this.zoom
-	});
         this._broadcastPano(forward.pano);
       } else {
         console.log("can't move forward, no links!");

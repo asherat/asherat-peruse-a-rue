@@ -125,26 +125,6 @@ function(config, L, Stapes, io) {
     moveForward: function() {
       this.moving = true;
       this.emit('move_forward');
-      /*
-      this.moving = true;
-      var numLinks = panosync.meta.Links.length;
-      var panoYaw = Number(panosync.meta.Projection.pano_yaw_deg);
-      var hdg = ( Number(kr.pano.get('view.hlookat')) + panoYaw ) % 360;
-      if( hdg < 0 ) hdg += 360;
-      if( numLinks > 0 ) {
-        var nearest = {};
-        nearest.delta = 1024;
-        for( var i=0; i<numLinks; i++ ) {
-          var link = panosync.meta.Links[i];
-          var delta = 180 - Math.abs( Math.abs(hdg - link.yawDeg) - 180 );
-          if( delta < nearest.delta ) {
-            nearest = link;
-            nearest.delta = delta;
-          }
-        }
-        panosync.request( nearest.panoId );
-      }
-      */
     }, // start Alf
     moveBackward: function() {
       this.moving = true;
