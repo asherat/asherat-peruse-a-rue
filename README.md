@@ -13,8 +13,7 @@ Node.js on all supported platforms can be found on their website:
 
 Peruse-a-Rue can be installed from git:
 
-    $ git clone https://code.google.com/p/liquid-galaxy.lg-peruse-a-rue/
-    $ cd liquid-galaxy.lg-peruse-a-rue
+    $ git clone https://github.com/asherat/asherat666-peruse-a-rue
 
 ### Installing Node deps
 
