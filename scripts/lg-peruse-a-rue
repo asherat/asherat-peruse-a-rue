@@ -24,7 +24,7 @@ peruse_IP=$2
 peruse_Port=$3
 remote_user=$4
 
-. lg-potree-stop $remote_IP $remote_user
+. lg-peruse-a-rue-stop $remote_IP $remote_user
 
 device_id='/dev/input/spacenavigator'
 
